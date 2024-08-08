@@ -1,0 +1,16 @@
+html,body{
+    color: white;
+}
+.container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  
+  .bottom-middle {
+    margin-bottom: 20px; /* Adjust as needed */
+    background-color: lightblue; /* For visualization */
+    padding: 10px;
+    border-radius: 5px;
+  }
